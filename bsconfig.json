@@ -1,17 +1,12 @@
 {
-  "name": "seattle.js-app",
+  "name": "kenwheelerbs",
   "reason": {
     "react-jsx": 2
   },
   "bs-dependencies": ["bs-react-native", "reason-react"],
   "sources": [
     {
-      "dir": "re",
-      "subdirs": [
-        {
-          "dir": "types"
-        }
-      ]
+      "dir": "re"
     }
   ]
 }
